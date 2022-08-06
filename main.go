@@ -31,7 +31,7 @@ import (
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/atri" // ATRI词库
 
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
 
@@ -76,6 +76,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/fortune"       // 运势
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/funny"         // 笑话
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/genshin"       // 原神抽卡
+
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/gif"           // 制图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/github"        // 搜索GitHub仓库
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/guessmusic"    // 猜歌
@@ -96,9 +97,10 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nihongo"       // 日语语法学习
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/novel"         // 铅笔小说网搜索
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nsfw"          // nsfw图片识别
+
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/omikuji"       // 浅草寺求签
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/qqwife"        // 一群一天一夫一妻制群老婆
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/reborn"        // 投胎
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/qqwife" // 一群一天一夫一妻制群老婆
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/reborn" // 投胎
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/runcode"       // 在线运行代码
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/saucenao"      // 以图搜图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/scale"         // 叔叔的AI二次元图片放大
